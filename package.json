@@ -1,14 +1,26 @@
 {
   "name": "gulp-my-starter-kid",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
+  "dependencies": {
+    "resolve-url": "^0.2.1",
+    "urix": "^0.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Jr005:texas13new@github.com/Jr005/gulp-cp.git"
+  },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "gulp": "^4.0.2"
-  }
+  "bugs": {
+    "url": "https://github.com/Jr005/gulp-cp/issues"
+  },
+  "homepage": "https://github.com/Jr005/gulp-cp#readme",
+  "description": ""
 }
